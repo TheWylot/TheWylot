@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Soheil</h1>
 <h3 align="center">Game Server Developer & Back-End Developer from Esfahan Iran</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thewylot&label=Views&color=fe9b2a&style=flat" alt="thewylot" /> </p>
+
 - 🔭 I’m currently working on **MadGames & MadCraft**
 
 - 🌱 I’m currently learning **PHP, Database Management**
