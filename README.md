@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thewylot&label=Views&color=fe9b2a&style=flat" alt="thewylot" /> </p>
 
-- 🔭 I’m currently working on **MadGames & MadCraft**
+- 🔭 I’m currently working on **MadGames/MadCraft/Mia Plays Minecraft Network**
 
-- 🌱 I’m currently learning **PHP, Database Management**
+- 🌱 I’m currently learning **Kotlin & PHP**
 
 - 👯 I’m currently contribute to **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheWylot?tab=repositories](https://github.com/TheWylot?tab=repositories)
 
-- 💬 Ask me about **Java, Back-End Programming Languages like node.js**
+- 💬 Ask me about **Java, Programming Frameworks like Node.JS**
 
 - 📫 Contact me? **Discord: Wy#9584**
 
