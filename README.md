@@ -9,21 +9,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWylot&theme=algolia" alt="TheWylot" /></p>
 
-
-- 🔭 I’m currently working on **MadGames/MadCraft/Mia Plays Minecraft Network**
-
-- 🌱 I’m currently learning **Kotlin & PHP**
-
-- 👯 I’m currently contribute to **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TheWylot?tab=repositories](https://github.com/TheWylot?tab=repositories)
-
-- 💬 Ask me about **Java, Programming Frameworks like Node.JS**
-
-- 📫 Contact me? **Discord: Wy#9584**
-
-- ⚡ Routine: **I'm some times too lazy**
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
