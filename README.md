@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi , I'm Soheil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Game+Server+Developer;Working+with+MiaPlays;Working+with+MadCraft+Network&center=true&width=500&height=50"></a>
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thewylot&label=Views&color=fe9b2a&style=flat" alt="thewylot" /> </p>
 
