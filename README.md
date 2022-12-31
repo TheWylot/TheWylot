@@ -55,10 +55,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/TheWylot"><img alt="TheWylot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheWylot&custom_title=TheWylot's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
