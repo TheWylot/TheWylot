@@ -44,4 +44,4 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: starred
           plugin_traffic: yes
-          committer_message: ':zap: [ci skip] Update README'
+          committer_message: ':zap: [ci skip] Update README File'
