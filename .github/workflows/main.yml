@@ -2,7 +2,7 @@ name: Refresh README workflow
 
 on:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
   push:
     branches:
@@ -23,13 +23,18 @@ jobs:
           user: TheWylot
           template: classic
           base: header, activity, community, repositories, metadata
-          config_octicon: yes
-          config_timezone: Iran/Tehran
+          config_timezone: Asia/Tehran
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -37,11 +42,12 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 5
+          plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: starred
-          plugin_traffic: yes
+          plugin_people: yes
+          plugin_people_limit: 10
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_stars: yes
+          plugin_stars_limit: 1
           committer_message: ':zap: [ci skip] Update README File'
