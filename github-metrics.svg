@@ -2422,7 +2422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>katietheqt/cryocool</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mod for a Minecraft client to allow it to run without disk access</div>
@@ -2708,7 +2708,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.40m out of 56.1m repositories</span>
+                                    <span class="gh">ranked 2.52m out of 55m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2945,7 +2945,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2023, 09:44:28 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Sept 2023, 10:40:18 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
