@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yebekhe/TelegramV2rayCollector</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PHP script collects V2Ray subscription links from sources, saves to protocol-specific files</div>
@@ -2714,7 +2714,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.40m out of 55.5m repositories</span>
+                                    <span class="gh">ranked 2.46m out of 57.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2951,7 +2951,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2023, 07:43:48 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2023, 08:41:11 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
