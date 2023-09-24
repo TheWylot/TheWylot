@@ -2427,7 +2427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BenCodez/VotingPlugin</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin on SpigotMC</div>
@@ -2707,7 +2707,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.46m out of 55.3m repositories</span>
+                                    <span class="gh">ranked 2.41m out of 52m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2944,7 +2944,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2023, 14:39:31 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2023, 15:50:42 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
