@@ -2397,7 +2397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vagdedes/Spartan-AntiCheat</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source version of the Spartan Minecraft anti-cheat. (Checks, Cloud Feature &amp; Piracy code is not included)</div>
@@ -2683,7 +2683,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.33m out of 49.9m repositories</span>
+                                    <span class="gh">ranked 2.39m out of 48.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2920,7 +2920,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2023, 00:40:56 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2023, 01:41:30 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
