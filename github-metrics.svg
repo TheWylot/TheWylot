@@ -2417,7 +2417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AkramLZ/PluginLoader</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple system that loads an external plugin into your Minecraft server.</div>
@@ -2582,7 +2582,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 850k out of 121m users</span>
+                                    <span class="gh">ranked 850k out of 122m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">42</div>
                                     </div>
@@ -2697,7 +2697,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.55m out of 102m repositories</span>
+                                    <span class="gh">ranked 2.55m out of 96.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2934,7 +2934,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2023, 00:40:43 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2023, 01:41:29 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
