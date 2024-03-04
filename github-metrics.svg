@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MegavexNetwork/scoreboard-library</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful packet-level scoreboard library for Paper/Spigot servers</div>
@@ -2720,7 +2720,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.69m out of 79.3m repositories</span>
+                                    <span class="gh">ranked 2.69m out of 72.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2958,7 +2958,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2024, 16:46:13 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2024, 17:41:40 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
