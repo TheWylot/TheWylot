@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GeorgH93/Minepacks</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and reliable backpack plugin for Bukkit/Spigot/Paper</div>
@@ -2726,7 +2726,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.72m out of 89.2m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 89m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2964,7 +2964,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2024, 09:46:29 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2024, 10:42:04 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
