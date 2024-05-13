@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hexaoxide/Carbon</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Carbon is a modern chat plugin built on channels, with just about every single setting and format configurable.</div>
@@ -2720,7 +2720,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.77m out of 204m repositories</span>
+                                    <span class="gh">ranked 2.77m out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2958,7 +2958,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2024, 07:46:32 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 May 2024, 08:44:55 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
