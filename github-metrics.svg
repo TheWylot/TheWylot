@@ -2427,7 +2427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dmulloy2/ProtocolLib</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provides read and write access to the Minecraft protocol with Bukkit.</div>
@@ -2713,7 +2713,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.79m out of 206m repositories</span>
+                                    <span class="gh">ranked 2.79m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2951,7 +2951,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2024, 23:42:54 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 00:42:27 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
