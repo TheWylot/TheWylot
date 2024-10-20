@@ -2433,7 +2433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TacoSpigot/TacoSpigot</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The main repository of TacoSpigot</div>
@@ -2713,7 +2713,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.94m out of 209m repositories</span>
+                                    <span class="gh">ranked 2.94m out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2951,7 +2951,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2024, 22:46:44 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2024, 23:45:23 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
