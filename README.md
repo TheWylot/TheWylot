@@ -1,9 +1,11 @@
 
-<h1 align="center">Hi , I'm Soheil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Soheil Talaee - GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thewylot&label=Views&color=fe9b2a&style=flat" alt="thewylot" /> </p>
+[![Views](https://komarev.com/ghpvc/?username=thewylot&color=fe9b2a&style=for-the-badge)](https://github.com/TheWylot)
+[![Discord](https://dcbadge.vercel.app/api/shield/410129952566935552?logoColor=presence)](https://discord.com/users/410129952566935552)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soheiltalaee) 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thewylot&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thewylot&redirect=true)
+
 
