@@ -23,7 +23,7 @@ jobs:
           user: TheWylot
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tehran
+          config_timezone: Asia/Dubai
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
