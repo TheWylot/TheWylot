@@ -2345,7 +2345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cynive/NetworkDataAPI</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NetworkDataAPI is a production-grade, enterprise-level data synchronization solution designed for large Minecraft networks (similar to Hypixel or CubeCraft). It provides a unified MongoDB-backed data layer that works seamlessly across both Paper/Spigot servers and BungeeCord/Velocity proxies.</div>
@@ -2457,7 +2457,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2025, 19:19:32 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2025, 20:24:40 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
