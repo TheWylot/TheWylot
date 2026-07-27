@@ -2390,7 +2390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-gitea/gitea</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</div>
@@ -2502,7 +2502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2026, 21:40:32 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2026, 23:23:35 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
