@@ -2400,7 +2400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bastian/bStats</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">bStats collects data for plugin authors. It's free and easy to use!</div>
@@ -2512,7 +2512,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2026, 07:43:25 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2026, 08:33:58 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
