@@ -2390,7 +2390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leonxlnx/unlazy</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.</div>
@@ -2502,7 +2502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2026, 01:25:33 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2026, 02:22:42 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
